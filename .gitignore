@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.pdf
+*.pickle
+store.csv
+test.csv
+train.csv
+sample_submission.csv
